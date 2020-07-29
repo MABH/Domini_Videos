@@ -1,0 +1,7 @@
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\bin\Debug\Domini_videos.exe.config
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\bin\Debug\Domini_videos.exe
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\bin\Debug\Domini_videos.pdb
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\obj\Debug\Domini_videos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\obj\Debug\Domini_videos.exe
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\obj\Debug\Domini_videos.pdb
+C:\Users\Miguel Angel\source\repos\Domini_videos\Domini_videos\obj\Debug\Domini_videos.csprojAssemblyReference.cache
